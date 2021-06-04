@@ -1,0 +1,15 @@
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\bin\Debug\netcoreapp3.1\Hotel_Booking.exe
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\bin\Debug\netcoreapp3.1\Hotel_Booking.deps.json
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\bin\Debug\netcoreapp3.1\Hotel_Booking.runtimeconfig.json
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\bin\Debug\netcoreapp3.1\Hotel_Booking.runtimeconfig.dev.json
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\bin\Debug\netcoreapp3.1\Hotel_Booking.dll
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\bin\Debug\netcoreapp3.1\Hotel_Booking.pdb
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.csprojAssemblyReference.cache
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.Form1.resources
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.csproj.GenerateResource.cache
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.AssemblyInfoInputs.cache
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.AssemblyInfo.cs
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.dll
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.pdb
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\Hotel_Booking\Hotel_Booking\obj\Debug\netcoreapp3.1\Hotel_Booking.genruntimeconfig.cache

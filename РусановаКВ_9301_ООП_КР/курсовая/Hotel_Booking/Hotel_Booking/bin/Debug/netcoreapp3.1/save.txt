@@ -1,0 +1,30 @@
+0 комната типа Hotel_Booking.SingleRoom
+время заселения 33, время выезда 41,тип заявки False
+время заселения 110, время выезда 171,тип заявки False
+1 комната типа Hotel_Booking.SingleRoom
+2 комната типа Hotel_Booking.SingleRoom
+3 комната типа Hotel_Booking.SingleRoom
+4 комната типа Hotel_Booking.SingleRoom
+5 комната типа Hotel_Booking.SingleRoom
+6 комната типа Hotel_Booking.SingleRoom
+7 комната типа Hotel_Booking.SingleRoom
+8 комната типа Hotel_Booking.SingleRoom
+9 комната типа Hotel_Booking.SingleRoom
+10 комната типа Hotel_Booking.DoubleRoom
+время заселения 45, время выезда 148,тип заявки False
+11 комната типа Hotel_Booking.DoubleRoom
+время заселения 119, время выезда 219,тип заявки False
+12 комната типа Hotel_Booking.DoubleRoom
+13 комната типа Hotel_Booking.HalfLuxuryRoom
+время заселения 25, время выезда 41,тип заявки False
+время заселения 42, время выезда 50,тип заявки False
+время заселения 50, время выезда 80,тип заявки False
+время заселения 86, время выезда 184,тип заявки False
+14 комната типа Hotel_Booking.HalfLuxuryRoom
+время заселения 80, время выезда 180,тип заявки False
+15 комната типа Hotel_Booking.HalfLuxuryRoom
+время заселения 64, время выезда 116,тип заявки False
+время заселения 155, время выезда 160,тип заявки False
+16 комната типа Hotel_Booking.LuxuryRoom
+время заселения 39, время выезда 57,тип заявки False
+время заселения 61, время выезда 131,тип заявки False

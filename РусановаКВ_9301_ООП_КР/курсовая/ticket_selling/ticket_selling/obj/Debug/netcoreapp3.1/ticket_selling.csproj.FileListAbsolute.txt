@@ -1,0 +1,13 @@
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\bin\Debug\netcoreapp3.1\ticket_selling.exe
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\bin\Debug\netcoreapp3.1\ticket_selling.deps.json
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\bin\Debug\netcoreapp3.1\ticket_selling.runtimeconfig.json
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\bin\Debug\netcoreapp3.1\ticket_selling.runtimeconfig.dev.json
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\bin\Debug\netcoreapp3.1\ticket_selling.dll
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\bin\Debug\netcoreapp3.1\ticket_selling.pdb
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\obj\Debug\netcoreapp3.1\ticket_selling.csprojAssemblyReference.cache
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\obj\Debug\netcoreapp3.1\ticket_selling.AssemblyInfoInputs.cache
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\obj\Debug\netcoreapp3.1\ticket_selling.AssemblyInfo.cs
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\obj\Debug\netcoreapp3.1\ticket_selling.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\obj\Debug\netcoreapp3.1\ticket_selling.dll
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\obj\Debug\netcoreapp3.1\ticket_selling.pdb
+C:\Users\Ксения\Documents\универ дз\4 сем\OOP\Русанова_9301_lab9\ticket_selling\ticket_selling\obj\Debug\netcoreapp3.1\ticket_selling.genruntimeconfig.cache

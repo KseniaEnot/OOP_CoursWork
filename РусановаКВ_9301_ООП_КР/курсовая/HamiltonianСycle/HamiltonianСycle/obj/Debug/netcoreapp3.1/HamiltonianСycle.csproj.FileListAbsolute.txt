@@ -1,0 +1,13 @@
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\bin\Debug\netcoreapp3.1\HamiltonianСycle.exe
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\bin\Debug\netcoreapp3.1\HamiltonianСycle.deps.json
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\bin\Debug\netcoreapp3.1\HamiltonianСycle.runtimeconfig.json
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\bin\Debug\netcoreapp3.1\HamiltonianСycle.runtimeconfig.dev.json
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\bin\Debug\netcoreapp3.1\HamiltonianСycle.dll
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\bin\Debug\netcoreapp3.1\HamiltonianСycle.pdb
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\obj\Debug\netcoreapp3.1\HamiltonianСycle.AssemblyInfoInputs.cache
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\obj\Debug\netcoreapp3.1\HamiltonianСycle.AssemblyInfo.cs
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\obj\Debug\netcoreapp3.1\HamiltonianСycle.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\obj\Debug\netcoreapp3.1\HamiltonianСycle.dll
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\obj\Debug\netcoreapp3.1\HamiltonianСycle.pdb
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\obj\Debug\netcoreapp3.1\HamiltonianСycle.genruntimeconfig.cache
+C:\Users\Ксения\Documents\универ дз\OOP\курсовая\HamiltonianСycle\HamiltonianСycle\obj\Debug\netcoreapp3.1\HamiltonianСycle.csprojAssemblyReference.cache

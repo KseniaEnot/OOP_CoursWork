@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamiltonianСycle", "HamiltonianСycle\HamiltonianСycle.csproj", "{A40BEC24-B5E6-4C89-9227-3A4508D9F44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamiltonianСycle.Tests", "HamiltonianСycle.Tests\HamiltonianСycle.Tests.csproj", "{351C4DA7-5FCD-4E52-84DB-FA1C1328A958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40BEC24-B5E6-4C89-9227-3A4508D9F44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40BEC24-B5E6-4C89-9227-3A4508D9F44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40BEC24-B5E6-4C89-9227-3A4508D9F44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40BEC24-B5E6-4C89-9227-3A4508D9F44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351C4DA7-5FCD-4E52-84DB-FA1C1328A958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351C4DA7-5FCD-4E52-84DB-FA1C1328A958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351C4DA7-5FCD-4E52-84DB-FA1C1328A958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351C4DA7-5FCD-4E52-84DB-FA1C1328A958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DFB4A33-7DFD-4B59-B9B8-2AA8F1F3ADCD}
+	EndGlobalSection
+EndGlobal
